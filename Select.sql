@@ -1,0 +1,5 @@
+-- SELECT DISTINCT(Age) FROM EmployeeDemographics
+-- SELECT COUNT(LastName) AS LastNameCount FROM EmployeeDemographics
+-- SELECT MAX(Salary) AS MaxSalary FROM EmployeeSalaries
+-- SELECT MIN(Salary) AS MaxSalary FROM EmployeeSalaries
+-- SELECT AVG(Salary) AS AvgSalary FROM EmployeeSalaries
